@@ -613,6 +613,7 @@ Main() {
     #_setup_personal
     _clean_up
     _run_hotfix_end
+    grub-mkconfig -o /boot/grub/grub.cfg
 
     rm -rf /etc/calamares /opt/extra-drivers
 
