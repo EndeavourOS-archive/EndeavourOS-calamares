@@ -484,7 +484,7 @@ _clean_up(){
     _RunUserCommands
 
     # Fix various grub stuff.
-    _fix_grub_stuff
+    #_fix_grub_stuff
 }
 
 _desktop_i3(){
