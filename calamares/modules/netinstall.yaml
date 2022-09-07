@@ -168,7 +168,6 @@
           - eos-quickstart
           - eos-rankmirrors
           - eos-update-notifier
-          - grub-tools
           - reflector-simple
           - welcome
           - yad-eos
