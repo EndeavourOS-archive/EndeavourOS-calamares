@@ -484,6 +484,7 @@ _clean_up(){
     _RunUserCommands
 
     # Fix various grub stuff.
+    # disabled for good will get removed completely in the future
     #_fix_grub_stuff
 }
 
